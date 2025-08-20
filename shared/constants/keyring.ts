@@ -36,4 +36,5 @@ export const KeyringType = {
 export const KEYRING_TYPES_SUPPORTING_7702 = [
   KeyringTypes.hd,
   KeyringTypes.simple,
+  KeyringTypes.oneKey,
 ];
